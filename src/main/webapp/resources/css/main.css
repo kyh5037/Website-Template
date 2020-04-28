@@ -2800,7 +2800,7 @@
 		-ms-transition: -ms-transform 0.5s ease, visibility 0.5s;
 		transition: transform 0.5s ease, visibility 0.5s;
 		-webkit-overflow-scrolling: touch;
-		background: #25a2c3;
+		background: #ffd147;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
@@ -2857,7 +2857,7 @@
 			transition: color 0.2s ease-in-out;
 			-webkit-tap-highlight-color: transparent;
 			border: 0;
-			color: #a7d9e7;
+			color: #ffffff;
 			cursor: pointer;
 			display: block;
 			height: 3.25em;
@@ -2943,7 +2943,7 @@
 
 		#banner h1 {
 			font-size: 3em;
-			color: #25a2c3;
+			color: #ffd147;
 			line-height: 1em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
@@ -3142,9 +3142,9 @@
 
 	#footer {
 		padding: 6em 0 4em 0;
-		background: #25a2c3;
+		background: #ffd147;
 		text-align: center;
-		color: #c8e7f0;
+		color: #ffffff;
 	}
 
 		#footer h2 {
@@ -3156,7 +3156,7 @@
 		}
 
 		#footer a {
-			color: #c8e7f0;
+			color: #ffffff;
 			text-decoration: none;
 		}
 
